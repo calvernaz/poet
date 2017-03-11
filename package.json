@@ -9,12 +9,9 @@
     "fs-then": "0.1.x",
     "jade": ">= 0.27.1",
     "json-front-matter": ">= 0.1.4",
-    "lodash": "4.17.4",
     "marked": "~0.3.2",
-    "mongoose": "~4.8.6",
     "redis": "2.6.5",
     "reds": "~0.2.5",
-    "underscore": "1.4.x",
     "when": "2.1.x"
   },
   "devDependencies": {
