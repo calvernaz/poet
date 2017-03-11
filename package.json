@@ -5,14 +5,14 @@
   "main": "lib/poet",
   "dependencies": {
     "bluebird": "3.5.0",
-    "front-matter": ">= 0.1.x",
-    "fs-then": "0.1.x",
-    "jade": ">= 0.27.1",
-    "json-front-matter": ">= 0.1.4",
-    "marked": "~0.3.2",
+    "front-matter": "2.1.2",
+    "fs-then": "0.1.0",
+    "jade": "1.11.0",
+    "json-front-matter": "1.0.0",
+    "marked": "0.3.6",
     "redis": "2.7.0",
     "reds": "git://github.com/calvernaz/reds.git",
-    "when": "2.1.x"
+    "when": "2.1.1"
   },
   "devDependencies": {
     "mocha": ">= 1.3.2",
